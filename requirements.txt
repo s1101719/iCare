@@ -1,0 +1,9 @@
+azure-cognitiveservices-speech
+flask
+openai
+uuid
+requests
+opencv-python-headless
+numpy
+deepface
+pillow
